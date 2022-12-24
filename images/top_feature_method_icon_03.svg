@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_23638" data-name="長方形 23638" width="100" height="100" transform="translate(-24723 -17336)" fill="#ff8484" stroke="#707070" stroke-width="1" opacity="0.443"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.13" cy="0.174" r="0.938" gradientTransform="translate(0.156 -0.042) rotate(43.828)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feddee"/>
+      <stop offset="1" stop-color="#ddeefa"/>
+    </radialGradient>
+  </defs>
+  <g id="top_feature_method_icon_03" transform="translate(24723 17336)" clip-path="url(#clip-path)">
+    <circle id="楕円形_8377" data-name="楕円形 8377" cx="24" cy="24" r="24" transform="translate(-24720 -17329.49)" opacity="0.4" fill="url(#radial-gradient)"/>
+    <circle id="楕円形_8375" data-name="楕円形 8375" cx="16.5" cy="16.5" r="16.5" transform="translate(-24691 -17272.49)" opacity="0.4" fill="url(#radial-gradient)"/>
+    <circle id="楕円形_8376" data-name="楕円形 8376" cx="16.5" cy="16.5" r="16.5" transform="translate(-24657 -17305.49)" opacity="0.4" fill="url(#radial-gradient)"/>
+    <g id="グループ_11106" data-name="グループ 11106" transform="translate(-3671.5 -1306.389)">
+      <path id="パス_47006" data-name="パス 47006" d="M0,0H46.223V16.143H23.838l-.152,58.9L0,75Z" transform="translate(-21035.832 -16018.602)" fill="none" stroke="#1c439a" stroke-width="2"/>
+      <g id="グループ_10752" data-name="グループ 10752" transform="translate(-21029.961 7487.167)">
+        <g id="グループ_10751" data-name="グループ 10751" transform="translate(0 49.574)">
+          <g id="グループ_10741" data-name="グループ 10741" transform="translate(0 -23499.898)">
+            <g id="長方形_23485" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742" data-name="グループ 10742" transform="translate(13.207 -23499.898)">
+            <g id="長方形_23485-2" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="5.354" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="3.354" height="6.072" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_10750" data-name="グループ 10750" transform="translate(0 37.502)">
+          <g id="グループ_10741-2" data-name="グループ 10741" transform="translate(0 -23499.898)">
+            <g id="長方形_23485-3" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-2" data-name="グループ 10742" transform="translate(13.207 -23499.898)">
+            <g id="長方形_23485-4" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="5.385" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="3.385" height="6.072" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_10749" data-name="グループ 10749" transform="translate(0 25.429)">
+          <g id="グループ_10741-3" data-name="グループ 10741" transform="translate(0 -23499.898)">
+            <g id="長方形_23485-5" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-3" data-name="グループ 10742" transform="translate(13.207 -23499.898)">
+            <g id="長方形_23485-6" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="5.58" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="3.58" height="6.072" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_10748" data-name="グループ 10748" transform="translate(0 13.357)">
+          <g id="グループ_10741-4" data-name="グループ 10741" transform="translate(0 -23499.898)">
+            <g id="長方形_23485-7" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-4" data-name="グループ 10742" transform="translate(13.207 -23499.898)">
+            <g id="長方形_23485-8" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="5.48" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="3.48" height="6.072" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_10747" data-name="グループ 10747" transform="translate(0 1.285)">
+          <g id="グループ_10741-5" data-name="グループ 10741" transform="translate(0 -23499.898)">
+            <g id="長方形_23485-9" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-5" data-name="グループ 10742" transform="translate(13.207 -23499.898)">
+            <g id="長方形_23485-10" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10743" data-name="グループ 10743" transform="translate(26.413 -23499.898)">
+            <g id="長方形_23485-11" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.072" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.072" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="パス_47005" data-name="パス 47005" d="M0,0H42.555V58.7H0Z" transform="translate(-21012.17 -16002.298)" fill="none" stroke="#1c439a" stroke-width="2"/>
+      <g id="グループ_10755" data-name="グループ 10755" transform="translate(-21006.299 7486.462)">
+        <g id="グループ_10754" data-name="グループ 10754" transform="translate(0 -30450.928)">
+          <g id="グループ_10741-6" data-name="グループ 10741" transform="translate(0 6992.183)">
+            <g id="長方形_23485-12" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-6" data-name="グループ 10742" transform="translate(11.739 6992.183)">
+            <g id="長方形_23485-13" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10743-2" data-name="グループ 10743" transform="translate(23.478 6992.183)">
+            <g id="長方形_23485-14" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_10753" data-name="グループ 10753" transform="translate(0 -30461.998)">
+          <g id="グループ_10741-7" data-name="グループ 10741" transform="translate(0 6992.183)">
+            <g id="長方形_23485-15" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-7" data-name="グループ 10742" transform="translate(11.739 6992.183)">
+            <g id="長方形_23485-16" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10743-3" data-name="グループ 10743" transform="translate(23.478 6992.183)">
+            <g id="長方形_23485-17" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="グループ_10744" data-name="グループ 10744" transform="translate(0 -30473.068)">
+          <g id="グループ_10741-8" data-name="グループ 10741" transform="translate(0 6992.183)">
+            <g id="長方形_23485-18" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10742-8" data-name="グループ 10742" transform="translate(11.739 6992.183)">
+            <g id="長方形_23485-19" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+          <g id="グループ_10743-4" data-name="グループ 10743" transform="translate(23.478 6992.183)">
+            <g id="長方形_23485-20" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+              <rect width="8.804" height="8.071" stroke="none"/>
+              <rect x="1" y="1" width="6.804" height="6.071" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="グループ_10741-9" data-name="グループ 10741" transform="translate(-21005.684 -15959.743)">
+        <g id="長方形_23485-21" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+          <rect width="8.804" height="8.804" stroke="none"/>
+          <rect x="1" y="1" width="6.804" height="6.804" fill="none"/>
+        </g>
+      </g>
+      <g id="グループ_10742-9" data-name="グループ 10742" transform="translate(-20994.17 -15959.743)">
+        <g id="長方形_23485-22" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+          <rect width="8.804" height="16.141" stroke="none"/>
+          <rect x="1" y="1" width="6.804" height="14.141" fill="none"/>
+        </g>
+      </g>
+      <g id="グループ_10743-5" data-name="グループ 10743" transform="translate(-20982.822 -15959.743)">
+        <g id="長方形_23485-23" data-name="長方形 23485" fill="none" stroke="#1c439a" stroke-width="2">
+          <rect width="8.804" height="8.804" stroke="none"/>
+          <rect x="1" y="1" width="6.804" height="6.804" fill="none"/>
+        </g>
+      </g>
+      <line id="線_66" data-name="線 66" x2="73.72" transform="translate(-21039.5 -15943.607)" fill="none" stroke="#1c439a" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
