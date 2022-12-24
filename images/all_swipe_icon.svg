@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="45.5" viewBox="0 0 49 45.5">
+  <g id="グループ_10978" data-name="グループ 10978" transform="translate(-163 -3798)">
+    <path id="Icon_awesome-hand-pointer" data-name="Icon awesome-hand-pointer" d="M31.5,16.875v6.75a2.811,2.811,0,0,1-.075.644l-2.25,9.563A2.813,2.813,0,0,1,26.438,36H11.813a2.813,2.813,0,0,1-2.275-1.158l-9-12.375a2.812,2.812,0,1,1,4.549-3.308l2.225,3.06V2.813a2.813,2.813,0,0,1,5.625,0V16.875H13.5V14.063a2.813,2.813,0,0,1,5.625,0v2.813h.563V15.188a2.813,2.813,0,0,1,5.625,0v1.688h.563a2.813,2.813,0,0,1,5.625,0Z" transform="translate(177.5 3807.5)" fill="#fff"/>
+    <path id="Icon_material-compare-arrows" data-name="Icon material-compare-arrows" d="M59.515,12H49v3H59.515v4.5l5.985-6-5.985-6Zm-37.03,7.5V15H33V12H22.485V7.5l-5.985,6Z" transform="translate(146.5 3790.5)" fill="#fff"/>
+  </g>
+</svg>
