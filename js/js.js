@@ -1,5 +1,5 @@
 var animationTivel = lottie.loadAnimation({
-  container: document.getElementById('tivel'),
+  container: document.getElementById('lottie'),
   renderer: 'svg',
   loop: true,
   autoplay: true,
