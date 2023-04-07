@@ -32,13 +32,19 @@ header{
 }
 
 .renatus-logo{
-  max-width: 230px;
-  margin: 2em -200px -2em 2em;
+  max-width: 200px;
+  margin: -3em 0 0 -1em;
 }
 lottie-player{
   width: 600px;
-    height: 600px;
-  margin: 0 auto;
+  margin: -50px auto;
+}
+
+.top-view p{
+  text-align:center;
+  padding:0px 0;
+  margin: 30px auto;
+  font-size: 25px;
 }
 
 #page-top a{
